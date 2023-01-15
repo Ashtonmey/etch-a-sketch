@@ -1,0 +1,16 @@
+.container {
+    display:flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.box {
+    border: rgb(187, 128, 189);
+    background-color: rgb(216, 201, 216);
+    border-style: solid;
+    height: 100px;
+    flex:1;
+}
