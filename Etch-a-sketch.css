@@ -7,7 +7,7 @@
     display: flex;
 }
 
-.box {
+.cell {
     border: rgb(187, 128, 189);
     background-color: rgb(216, 201, 216);
     border-style: solid;
