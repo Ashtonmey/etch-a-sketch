@@ -11,6 +11,10 @@
     border: rgb(187, 128, 189);
     background-color: rgb(216, 201, 216);
     border-style: solid;
-    height: 100px;
+    height: 20px;
     flex:1;
+}
+
+.seen {
+    background-color: rgb(144, 144, 189);
 }
