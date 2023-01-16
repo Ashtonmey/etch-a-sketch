@@ -8,6 +8,8 @@ body {
     background-color: white;
     padding: 10px;  
     height: 100%;
+    width: 900px;
+    margin: auto;
 }
 
 .row {
@@ -20,13 +22,14 @@ body {
     border-width: 1px;
     background-color: rgb(216, 201, 216);
     border-style: solid;
-    height: 10px;
+    height: 200px;
     width: 100%;
 }
 
 .seen {
     background-color: rgb(144, 144, 189);
 }
+
 
 
 .button-17 {

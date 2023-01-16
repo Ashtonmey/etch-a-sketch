@@ -33,6 +33,7 @@ for (i = 0; i<gridSize; i++)
         div_cell.classList.add("cell");
         div_cell.classList.add("gird-element");
         div_cell.setAttribute("id", `cell${i*4+j}`);
+        div_cell.setAttribute(`style`, `height: ${800/gridSize}px;`);
         div_row.appendChild(div_cell);
         div_cell.addEventListener('mouseover', function(e) {
         this.classList.add("seen");
