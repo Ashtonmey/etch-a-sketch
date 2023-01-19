@@ -20,7 +20,7 @@ body {
 .cell {
     border: rgb(187, 128, 189);
     border-width: 1px;
-    background-color: rgb(216, 201, 216);
+    /*background-color: rgb(216, 201, 216);*/
     border-style: solid;
     height: 200px;
     width: 100%;
